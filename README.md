@@ -939,9 +939,7 @@ MyFin-Bank/
 ## 📞 Support
 
 ```
-Email:   support@myfinbank.com
-Phone:   1-800-MYFIN-BANK
-Hours:   24/7 Auto-reply | Business hours for human support
+Email:   utkarshr1405@gmail.com
 ```
 
 ---
@@ -952,4 +950,4 @@ This project is built as a **capstone project** for educational purposes.
 
 ---
 
-*© 2026 MyFin Bank. All rights reserved.*
+*© 2026 MyFin Bank. All rights reserved. Made with ❤️ by Utkarsh Roy*
